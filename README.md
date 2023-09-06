@@ -1,5 +1,6 @@
 # GUM (WIP)
-Do not user, lib in development.
+Do not use!!!
+Lib in development.
 
 GoUserManager: A Golang library for seamless user management and authentication
 
